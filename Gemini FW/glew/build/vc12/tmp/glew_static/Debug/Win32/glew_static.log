@@ -1,0 +1,11 @@
+﻿Build started 15/03/2015 16:57:17.
+     1>Project "D:\stuff\Gemini\Gemini FW\glew\build\vc12\glew_static.vcxproj" on node 2 (Build target(s)).
+     1>Lib:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"..\..\..\Lib\glew32s_d.lib" /NOLOGO /MACHINE:X86 tmp\glew_static\Debug\Win32\glew.res
+         tmp\glew_static\Debug\Win32\glew.obj
+         glew_static.vcxproj -> D:\stuff\Gemini\Gemini FW\glew\build\vc12\..\..\..\Lib\glew32s_d.lib
+     1>Done Building Project "D:\stuff\Gemini\Gemini FW\glew\build\vc12\glew_static.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15
